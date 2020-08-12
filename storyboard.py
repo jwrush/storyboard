@@ -1,20 +1,12 @@
-class Voice:
-   def __init__(self, name: str):
-      self.name = name
-   def __repr__(self):
-      return f"<storyboard.Voice: {self.name}>";
-   def __str__(self):
-      return f"{self.name}";
-   def __eq__(self, other):
-      if isinstance(other, Voice):
-         return self.name == other.name
-      else:
-         return False
-   def __ne__(self, other):
-      return not self.__eq__(other)
+import attr
+
+@attr.s(frozen=True)
+class Voice(object):
+   name = attr.ib();
 
 class Bubble:
-   def __init__(self, contents: str):
+   def __init__(self, voice: Voice, contents: str):
       self.contents = contents
+      self.voice = voice
    def __str__(self):
-      return f"{self.contents}"
+      return f"{str.upper(self.voice.name)}:\r\n{self.contents}\r\n"
