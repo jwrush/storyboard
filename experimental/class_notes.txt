@@ -1,0 +1,23 @@
+# VOICES
+0. Narrator
+1. Oddyseus
+2. Jason
+3. Athena
+4. Orfeau
+# SCENES
+## SCENE
+This is a scene description.
+### PANEL
+This is a panel description.
+#### $1
+> Hello, World!
+#### $2
+> Hello, you!
+#### PANEL
+This is a panel description.
+## SCENE
+### PANEL
+### PANEL
+## SCENE
+### PANEL
+### PANEL

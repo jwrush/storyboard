@@ -6,6 +6,12 @@ def test_VoiceClassExists():
 def test_BubbleClassExists():
    assert Bubble
 
+def test_SceneClassExists():
+   assert Scene
+
+def test_PanelClassExists():
+   assert Panel
+
 def test_VoiceMadeWithName():
    voice = Voice("Bob")
    assert voice.name == "Bob"

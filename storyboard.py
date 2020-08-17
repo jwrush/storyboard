@@ -1,8 +1,18 @@
 import attr
 
-@attr.s(frozen=True)
+@attr.s(frozen=True) #frozen means immutable
 class Voice(object):
-   name = attr.ib();
+   name = attr.ib()
+
+@attr.s(frozen=True)
+class Scene(object):
+   description = attr.ib()
+   panels = attr.ib()
+
+@attr.s(frozen=True)
+class Panel(object):
+   description = attr.ib()
+   bubbles = attr.ib()
 
 class Bubble:
    def __init__(self, voice: Voice, contents: str):
