@@ -6,18 +6,51 @@
 4. Orfeau
 # SCENES
 ## SCENE
-This is a scene description.
+Concept intro.
 ### PANEL
-This is a panel description.
-#### $1
-> Hello, World!
-#### $2
-> Hello, you!
-#### PANEL
-This is a panel description.
+TBD
+#### Narrator
+>>ON THE EVE OF DESTRUCTION
+
+>>THE LAST ATLANTEANS
+
+>>WERE ENCODED INTO DATA
+
+>>AND TRANSMITTED ACROSS SPACE
+
 ## SCENE
+Oddyseus and Jason are at the lighthouse.  Athena and Orfeau will arrive and convince them to leave for Troy.
 ### PANEL
+TBD
+#### Narrator
+> The city of Troy is under siege.
 ### PANEL
+TBD
+### PANEL
+TBD
+### PANEL
+#### Athena
+> We need you so that we can get into Troy. We know you've found a way in.
+### PANEL
+TBD
+### PANEL
+#### Oddyseus
+> I'm not going. I'm no longer fighting in the war of all against all.
+### PANEL
+TBD
+### PANEL
+TBD
+#### Orfeau
+> You want to know the shape of the cage. That's why you're going to come with us.
 ## SCENE
+TBD
 ### PANEL
+TBD
 ### PANEL
+TBD
+## SCENE
+TBD
+### PANEL
+TBD
+### PANEL
+TBD
